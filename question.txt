@@ -1,0 +1,7 @@
+
+write a py program that promotes user with dashboard menu as follows:
+add new book 
+remove old book 
+search for other book
+list all book
+quit
